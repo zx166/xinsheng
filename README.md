@@ -1,4 +1,4 @@
-✪ **本页网址 https://github.com/zx166/xinsheng**        ✪ **主页网址 https://github.com/zx1686/
+✪ **本页网址 https://github.com/zx166/xinsheng**        ✪ **主页网址 htttps://github.com/zx166/166
 
 [![xinsheng](https://cloud.githubusercontent.com/assets/18081243/14874338/6f3ac3e2-0d42-11e6-92e5-93367eced0d9.jpg)](https://dnd0jds3cnitr.cloudfront.net)
 
